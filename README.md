@@ -1,5 +1,12 @@
 
-# Gulp
+# The slides!
+
+The slides are [here](https://docs.google.com/presentation/d/1U2JD3OmbtiwjPSS8wwH5gFiiLZBnouU0BLIwP6iUCJ0/edit?usp=sharing)
+
+
+# Building and such
+
+## Gulp
 
 Depends on `gulp-babel` plugin: `npm install --save-dev gulp-babel`
 
@@ -8,7 +15,7 @@ To build, run `gulp`
 See `gulpfile.js` for more details.
 
 
-# Grunt
+## Grunt
 
 Depends on `grunt-babel` plugin: `npm install --save-dev grunt-babel`
 
@@ -17,7 +24,7 @@ To build, run `grunt`
 See `Gruntfile.js` for more details.
 
 
-# Browserify
+## Browserify
 
 Prerequisite: Browserify must be installed (globally).
 
@@ -37,7 +44,7 @@ npm run browserify
 ```
 
 
-# Webpack
+## Webpack
 
 Prerequisite: Webpack must be installed (globally).
 
